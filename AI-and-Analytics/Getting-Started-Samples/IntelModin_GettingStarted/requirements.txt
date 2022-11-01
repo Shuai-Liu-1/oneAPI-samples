@@ -1,7 +1,5 @@
-###### Requirements without Version Specifiers ######
-notebook
-matplotlib
-pandas
-numpy
-time
-modin 
+pandas==0.24.2
+matplotlib==3.5.2
+seaborn==0.11.2
+plotly.express==0.4.1
+plotly==5.10.0
