@@ -3,3 +3,5 @@ notebook
 matplotlib
 pandas
 numpy
+time
+modin 
